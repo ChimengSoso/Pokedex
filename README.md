@@ -227,6 +227,4 @@ String course = getPreferences(Context.MODE_PRIVATE).getString("course", "cs50")
 
 <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>submit50 cs50/problems/2020/x/tracks/android/pokedex
 </code></pre></div></div>
-
-
-                </main>
+</main>
